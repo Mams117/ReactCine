@@ -40,7 +40,7 @@ const Agregar = ({datos,setDatos}) => {
 
 <div class="alert alert-success" role="alert" style={{textAlign:"center"}}>
   <div >
-    <h4 style={{textAlign:"center",color:"Green"}} >Agrega tu pelicula favorita
+    <h4 style={{textAlign:"center",color:"Green"}} >Agrega Tu Pelicula favorita
         </h4>
   </div>
 </div>
